@@ -1,29 +1,27 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Yong Wai Loon
 
-🎓 I'm a [Your current role or education status]  
-💻 I enjoy working on cybersecurity projects, ethical hacking, and network security  
-🔐 Currently learning: [e.g., OSCP prep, malware analysis, Wireshark]  
-📫 Reach me at: [your email] | [LinkedIn]  
+🎓 I'm a third year Computing Science student in Heriot-Watt University Malaysia 
+💻 I enjoy working on cybersecurity projects, ethical hacking and network security  
+🔐 Currently learning: Wireshark, pentesting
+📫 Reach me at: yongwl124578@gmail.com | www.linkedin.com/in/yong-wai-loon-a48543350  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Python, Java, Bash, C
-- Tools: Kali Linux, Metasploit, Wireshark, Burp Suite, Nmap
-- Platforms: Linux (Debian/Kali), Windows, VirtualBox, pfSense
+- Languages: Python, Java, Bash, C, OCaml, 
+- Tools: Kali Linux, Wireshark, Burp Suite
+- Platforms: Linux (Debian/Kali), Windows, VirtualBox
 
 ---
 
 ## 📂 My Projects
 
 ### 🔒 Cybersecurity Home Lab
-A full-featured pentest lab using VirtualBox & pfSense to simulate real-world attack & defense scenarios.  
-→ [View repo](https://github.com/your-username/cyber-lab)
+
 
 ### 🐍 Python Malware Analyzer
-A tool to statically analyze PE files for signs of obfuscation and malware behavior.  
-→ [View repo](https://github.com/your-username/malware-analyzer)
+
 
 ---
 
@@ -32,10 +30,3 @@ A tool to statically analyze PE files for signs of obfuscation and malware behav
 - [ ] CompTIA Security+
 - [ ] TryHackMe: Complete Offensive Pentesting Path
 - [ ] Hack The Box Labs
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
-

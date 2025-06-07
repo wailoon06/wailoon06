@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yong Wai Loon
 
-🎓 I'm a third year Computing Science student in Heriot-Watt University Malaysia 
+🎓 I'm a third year Computing Science student in Heriot-Watt University Malaysia
 💻 I enjoy working on cybersecurity projects, ethical hacking and network security  
 🔐 Currently learning: Wireshark, pentesting
 📫 Reach me at: yongwl124578@gmail.com | www.linkedin.com/in/yong-wai-loon-a48543350  

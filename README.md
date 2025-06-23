@@ -9,7 +9,7 @@
 
 ## 🛠️ Tools & Technologies
 
-- Languages: Python, Java, Bash, C, OCaml, 
+- Languages: Python, Java, Bash, C, OCaml
 - Tools: Kali Linux, Wireshark, Burp Suite
 - Platforms: Linux (Debian/Kali), Windows, VirtualBox
 
@@ -17,16 +17,3 @@
 
 ## 📂 My Projects
 
-### 🔒 Cybersecurity Home Lab
-
-
-### 🐍 Python Malware Analyzer
-
-
----
-
-## 🧠 Learning & Certifications
-
-- [ ] CompTIA Security+
-- [ ] TryHackMe: Complete Offensive Pentesting Path
-- [ ] Hack The Box Labs

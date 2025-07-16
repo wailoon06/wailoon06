@@ -1,19 +1,21 @@
-# 👋 Hi, I'm Yong Wai Loon
+# Yong Wai Loon
 
-🎓 I'm a third year Computing Science student in Heriot-Watt University Malaysia
-💻 I enjoy working on cybersecurity projects, ethical hacking and network security  
-🔐 Currently learning: Wireshark, pentesting
+🎓 I'm a 2nd year Computing Science student from Heriot-Watt University Malaysia (currently on semester break) 
+💻 I have build myself on solid programming foundations at my 1st and 2nd year. I'm currently exploring myself in the cybersecurity field and found my interest in network security, forensics and pentesting
+🔐 Current learning: Working hard to familiar with CTF challenges🎯
 📫 Reach me at: yongwl124578@gmail.com | www.linkedin.com/in/yong-wai-loon-a48543350  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Languages: Python, Java, Bash, C, OCaml
-- Tools: Kali Linux, Wireshark, Burp Suite
-- Platforms: Linux (Debian/Kali), Windows, VirtualBox
+- Tools: Postman, Kali Linux, Wireshark, Burp Suite, DrawIO and ChatGPT xD
+- Platforms: Linux, Windows
 
 ---
 
-## 📂 My Projects
+## My Projects
+
+NZ Home
 

@@ -19,5 +19,5 @@
 
 ## My Projects
 
-### NZ Home
+### [NZ Home](https://github.com/wailoon06/nzhome)
 
